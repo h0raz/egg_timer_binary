@@ -1,0 +1,6 @@
+..dep/
+default/
+compile/
+build/
+*.lst
+*.o
